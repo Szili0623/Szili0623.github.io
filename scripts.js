@@ -1,47 +1,47 @@
 let data0 = {
-  photo: "/Gallery/images/tree-736885.jpg",
+  photo: "/images/tree-736885.jpg",
   title: "Fa a napnyugtában",
   description: "Óceánra néző fa a napnyugtában"
 }
 
 let data1 = {
-  photo: "/Gallery/images/alpine-7703065_1920.jpg",
+  photo: "/images/alpine-7703065_1920.jpg",
   title: "Alpesi hegyek",
   description: "Gyönyörű táj"
 }
 
 let data2 = {
-  photo: "/Gallery/images/benches-560435_1920.jpg",
+  photo: "/images/benches-560435_1920.jpg",
   title: "Őszi padok",
   description: "Őszi táj padokkal"
 }
 
 let data3 = {
-  photo: "/Gallery/images/fox-1284512_1920.jpg",
+  photo: "/images/fox-1284512_1920.jpg",
   title: "Róka",
   description: "Havasi róka"
 }
 
 let data4 = {
-  photo: "/Gallery/images/pink-324175_1920.jpg",
+  photo: "/images/pink-324175_1920.jpg",
   title: "Barackfa virág",
   description: "Cherry blossom flower"
 }
 
 let data5 = {
-  photo: "/Gallery/images/road-1072821_1920.jpg",
+  photo: "/images/road-1072821_1920.jpg",
   title: "Őszi út",
   description: "Út egy őszi erdőben"
 }
 
 let data6 = {
-  photo: "/Gallery/images/rose-165819_1920.jpg",
+  photo: "/images/rose-165819_1920.jpg",
   title: "Rózsa",
   description: "Kék rózsa harmattal"
 }
 
 let data7 = {
-  photo: "/Gallery/images/starling-7828426_1920.jpg",
+  photo: "/images/starling-7828426_1920.jpg",
   title: "Madár",
   description: "Valamilyen madár"
 }
